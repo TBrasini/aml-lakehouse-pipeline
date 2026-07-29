@@ -1,0 +1,5 @@
+# For local development/testing only — NOT needed on Databricks
+# (Databricks Free Edition already ships Spark, Delta Lake and Python).
+pyspark==3.5.1
+delta-spark==3.2.0
+faker
